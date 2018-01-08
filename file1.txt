@@ -1,3 +1,6 @@
 hi this is samidha dubey
-today is day 3 of Git Training.
-it is going good.
+
+<<<<<<< HEAD
+=======
+kikilik
+>>>>>>> feature1
