@@ -1,2 +1,2 @@
 hi this is samidha.
-today is day 2 of Git Training.
+today is day 3 of Git Training.
